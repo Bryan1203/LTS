@@ -1,0 +1,193 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1548218565639">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_home.css" crc="4279851981" ref="index"/>
+    <file name="master_intro.css" crc="4254767260" ref="漆線雕:相關資訊:貢獻分配:計畫總覽:計畫要素"/>
+    <file name="___.css" crc="83846548" ref="漆線雕"/>
+    <file name="____.css" crc="4129666698" ref="相關資訊"/>
+    <file name="____3.css" crc="259683016" ref="貢獻分配"/>
+    <file name="____1.css" crc="67123812" ref="計畫總覽"/>
+    <file name="____2.css" crc="83846548" ref="計畫要素"/>
+    <file name="index.css" crc="4002415733" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="museutils.js" crc="340535759" ref="index:相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="whatinput.js" crc="86476730" ref="index:相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:相關資訊:計畫總覽"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="require.js" crc="7928878" ref="index:相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+  </folder>
+  <folder name="images">
+    <file name="footer.png" crc="72676742" ref="index:相關資訊">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button.png" crc="3818276249" ref="index:相關資訊">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+    </file>
+    <file name="u14422.png" crc="147022169" ref="index"/>
+    <file name="u14422-m.png" crc="295109336" ref="index"/>
+    <file name="button-u14422-a.png" crc="147022169" ref="index"/>
+    <file name="u14442.png" crc="351475362" ref="index"/>
+    <file name="u14442-m.png" crc="4006926220" ref="index"/>
+    <file name="button-u14442-a.png" crc="351475362" ref="index"/>
+    <file name="u14428.png" crc="389483309" ref="index"/>
+    <file name="u14428-m.png" crc="39227062" ref="index"/>
+    <file name="button-u14428-a.png" crc="389483309" ref="index"/>
+    <file name="u14417.png" crc="317915820" ref="index"/>
+    <file name="u14417-m.png" crc="119166797" ref="index"/>
+    <file name="button-u14417-a.png" crc="317915820" ref="index"/>
+    <file name="u14437.png" crc="4198275016" ref="index"/>
+    <file name="u14437-m.png" crc="321704932" ref="index"/>
+    <file name="button-u14437-a.png" crc="4198275016" ref="index"/>
+    <file name="u17404.png" crc="4089794100" ref="index"/>
+    <file name="u17404-m.png" crc="4074161149" ref="index"/>
+    <file name="button-u17404-a.png" crc="4089794100" ref="index"/>
+    <file name="frontlogohd.png" crc="3767328023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="introbackground01.png" crc="155101884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_logo.png" crc="4229506877" seo="true" ref="index:相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕">
+      <caption webpage="index" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="漆線雕" alt=""/>
+    </file>
+    <file name="upperlogo.jpg" crc="3800365208" seo="true" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕">
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="漆線雕" alt=""/>
+    </file>
+    <file name="u12075.png" crc="147022169" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12075-r.png" crc="480541835" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12075-m.png" crc="4138748526" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12075-a.png" crc="147022169" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="u12197.png" crc="351475362" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12197-r.png" crc="215041452" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12197-m.png" crc="14826499" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12197-a.png" crc="351475362" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="u12248.png" crc="389483309" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12248-r.png" crc="386799991" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12248-m.png" crc="3785811326" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12248-a.png" crc="389483309" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="u12351.png" crc="317915820" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12351-r.png" crc="328148896" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12351-m.png" crc="175301904" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12351-a.png" crc="317915820" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="u12301.png" crc="4198275016" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12301-r.png" crc="3854936697" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12301-m.png" crc="4155154256" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u12301-a.png" crc="4198275016" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="u17426.png" crc="4089794100" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u17426-r.png" crc="4170533198" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u17426-m.png" crc="3966031927" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="button-u17426-a.png" crc="4089794100" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕"/>
+    <file name="background04.jpg" crc="3822374416" ref="相關資訊">
+      <caption webpage="相關資訊" alt=""/>
+    </file>
+    <file name="inkpoint.png" crc="3802025612" seo="true" ref="相關資訊">
+      <caption webpage="相關資訊" alt=""/>
+    </file>
+    <file name="u12950-5.png" crc="3848248534" ref="相關資訊"/>
+    <file name="relateinfo.png" crc="3929212042" seo="true" ref="相關資訊">
+      <caption webpage="相關資訊" alt=""/>
+    </file>
+    <file name="background03.jpg" crc="483631935" ref="相關資訊:計畫總覽:貢獻分配:計畫要素:漆線雕">
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="漆線雕" alt=""/>
+    </file>
+    <file name="inkpoint2.png" crc="3802025612" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u17088-5.png" crc="3854264716" ref="計畫總覽"/>
+    <file name="inkpoint3.png" crc="4103885987" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u16954-5.png" crc="508439498" ref="計畫總覽"/>
+    <file name="inkpoint4.png" crc="4103885987" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u16963-5.png" crc="4200029184" ref="計畫總覽"/>
+    <file name="inkpoint5.png" crc="4103885987" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u17105-5.png" crc="3936360888" ref="計畫總覽"/>
+    <file name="inkpoint6.png" crc="4103885987" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u17111-5.png" crc="499243934" ref="計畫總覽"/>
+    <file name="bird-u16957-fr.png" crc="4110230231" ref="計畫總覽"/>
+    <file name="inkpoint7.png" crc="4103885987" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u17117-5.png" crc="4165853459" ref="計畫總覽"/>
+    <file name="inkpoint8.png" crc="4103885987" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u17124-5.png" crc="3851358544" ref="計畫總覽"/>
+    <file name="projov.png" crc="202836151" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="inkpoint9.png" crc="3802025612" seo="true" ref="貢獻分配">
+      <caption webpage="貢獻分配" alt=""/>
+    </file>
+    <file name="u17058-5.png" crc="285793886" ref="貢獻分配"/>
+    <file name="contribute.png" crc="443222099" seo="true" ref="貢獻分配">
+      <caption webpage="貢獻分配" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="402348846" seo="true" mt="1548215615062" redirect="true"/>
+  <file name="相關資訊.html" crc="125653121" seo="true" mt="1548215492028" redirect="true"/>
+  <file name="計畫總覽.html" crc="114413375" seo="true" mt="1548215492028" redirect="true"/>
+  <file name="貢獻分配.html" crc="3961538570" seo="true" mt="1548215492028" redirect="true"/>
+  <file name="計畫要素.html" crc="4109324832" seo="true" mt="1548215492028" redirect="true"/>
+  <file name="漆線雕.html" crc="356674122" seo="true" mt="1548215492028" redirect="true"/>
+</manifest>
