@@ -98,6 +98,9 @@
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test.com/mainpage.html</loc>
