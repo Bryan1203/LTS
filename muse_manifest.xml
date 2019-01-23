@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1548227444446">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1548228518097">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_home.css" crc="4279851981" ref="index"/>
@@ -7,8 +7,8 @@
     <file name="mainpage.css" crc="83846548" ref="mainpage"/>
     <file name="relatedinfo.css" crc="4129147614" ref="relatedinfo"/>
     <file name="contribute.css" crc="247117304" ref="contribute"/>
-    <file name="projectoverview.css" crc="4217726452" ref="projectoverview"/>
-    <file name="plan.css" crc="420665754" ref="plan"/>
+    <file name="projectoverview.css" crc="4150908458" ref="projectoverview"/>
+    <file name="plan.css" crc="4010080290" ref="plan"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:relatedinfo:projectoverview:contribute:plan:mainpage"/>
@@ -128,25 +128,25 @@
     </file>
     <file name="home_logo.png" crc="4229506877" seo="true" ref="index:relatedinfo:projectoverview:contribute:plan:mainpage">
       <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="plan" alt=""/>
       <caption webpage="計畫要素" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="漆線雕" alt=""/>
-      <caption webpage="plan" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
       <caption webpage="計畫總覽" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
       <caption webpage="projectoverview" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="upperlogo.jpg" crc="3800365208" seo="true" ref="relatedinfo:projectoverview:contribute:plan:mainpage">
       <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="plan" alt=""/>
       <caption webpage="計畫要素" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="漆線雕" alt=""/>
-      <caption webpage="plan" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
       <caption webpage="計畫總覽" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
       <caption webpage="projectoverview" alt=""/>
@@ -199,12 +199,12 @@
     </file>
     <file name="background03.jpg" crc="483631935" ref="relatedinfo:projectoverview:contribute:plan:mainpage">
       <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="plan" alt=""/>
       <caption webpage="計畫要素" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="漆線雕" alt=""/>
-      <caption webpage="plan" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
       <caption webpage="計畫總覽" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
       <caption webpage="projectoverview" alt=""/>
@@ -233,7 +233,6 @@
       <caption webpage="projectoverview" alt=""/>
     </file>
     <file name="u17111-5.png" crc="499243934" ref="projectoverview"/>
-    <file name="bird-u16957-fr.png" crc="4110230231" ref="projectoverview:plan"/>
     <file name="inkpoint7.png" crc="4103885987" seo="true" ref="projectoverview">
       <caption webpage="計畫總覽" alt=""/>
       <caption webpage="projectoverview" alt=""/>
@@ -279,11 +278,15 @@
     <file name="plandecision.png" crc="459029248" seo="true" ref="plan">
       <caption webpage="plan" alt=""/>
     </file>
+    <file name="bird.png" crc="164556816" ref="projectoverview:plan">
+      <caption webpage="plan" alt=""/>
+      <caption webpage="projectoverview" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="310986465" seo="true" mt="1548218818340" redirect="true"/>
   <file name="relatedinfo.html" crc="164336056" seo="true" mt="1548223947078" redirect="true"/>
-  <file name="projectoverview.html" crc="118283829" seo="true" mt="1548227404568" redirect="true"/>
+  <file name="projectoverview.html" crc="464063338" seo="true" mt="1548228185296" redirect="true"/>
   <file name="contribute.html" crc="4275074880" seo="true" mt="1548224142154" redirect="true"/>
-  <file name="plan.html" crc="3927250463" seo="true" mt="1548227307493" redirect="true"/>
+  <file name="plan.html" crc="4249022158" seo="true" mt="1548228280467" redirect="true"/>
   <file name="mainpage.html" crc="487876336" seo="true" mt="1548223947078" redirect="true"/>
 </manifest>
