@@ -1,0 +1,262 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1548214550036">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_intro.css" crc="184277643" ref="計畫要素:相關資訊:計畫總覽:貢獻分配"/>
+    <file name="master_a-__.css" crc="3863563763" ref="questionnaire:介紹:reflection:animal-welfare-and-protection:interview"/>
+    <file name="master_home.css" crc="3772045608" ref="index"/>
+    <file name="questionnaire.css" crc="3914797414" ref="questionnaire"/>
+    <file name="__.css" crc="4223795497" ref="介紹"/>
+    <file name="____2.css" crc="346806654" ref="計畫要素"/>
+    <file name="____.css" crc="137980221" ref="相關資訊"/>
+    <file name="reflection.css" crc="3914797414" ref="reflection"/>
+    <file name="animal-welfare-and-protection.css" crc="4189414643" ref="animal-welfare-and-protection"/>
+    <file name="index.css" crc="3845682805" ref="index"/>
+    <file name="____1.css" crc="4071359545" ref="計畫總覽"/>
+    <file name="interview.css" crc="3914797414" ref="interview"/>
+    <file name="____3.css" crc="4249815039" ref="貢獻分配"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection:index:相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="museutils.js" crc="340535759" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection:index:相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="whatinput.js" crc="86476730" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection:index:相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="museconfig.js" crc="4286661555" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection:index:相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection:index:相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="介紹:animal-welfare-and-protection:index:相關資訊:計畫總覽"/>
+    <file name="jquery.watch.js" crc="51536988" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection:index:相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="html5shiv.js" crc="4241844378" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection:index:相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="require.js" crc="7928878" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection:index:相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection:index:相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="u11914.png" crc="4245718655" ref="介紹"/>
+    <file name="u11914-a.png" crc="4245718655" ref="介紹"/>
+    <file name="u11923-4-a.png" crc="4229288607" ref="介紹"/>
+    <file name="u11948.png" crc="493139413" ref="介紹"/>
+    <file name="u11948-a.png" crc="493139413" ref="介紹"/>
+    <file name="u11935.png" crc="327149691" ref="介紹"/>
+    <file name="u11935-a.png" crc="327149691" ref="介紹"/>
+    <file name="u11944.png" crc="34878315" ref="介紹"/>
+    <file name="u11944-a.png" crc="34878315" ref="介紹"/>
+    <file name="u11929.png" crc="178458769" ref="介紹"/>
+    <file name="u11929-a.png" crc="178458769" ref="介紹"/>
+    <file name="pack-logo121x49.jpg" crc="282531763" seo="true" ref="介紹">
+      <caption webpage="介紹" alt=""/>
+    </file>
+    <file name="8q6a8834.jpg" crc="3762843419" ref="介紹">
+      <caption webpage="介紹" alt=""/>
+    </file>
+    <file name="pack1.png" crc="3999951196" ref="介紹:animal-welfare-and-protection">
+      <caption webpage="介紹" alt=""/>
+      <caption webpage="animal-welfare-and-protection" alt=""/>
+    </file>
+    <file name="pack-logo.jpg" crc="3826249156" seo="true" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection">
+      <caption webpage="questionnaire" alt=""/>
+      <caption webpage="animal-welfare-and-protection" alt=""/>
+      <caption webpage="animal-welfare-and-protection" alt=""/>
+      <caption webpage="reflection" alt=""/>
+      <caption webpage="interview" alt=""/>
+      <caption webpage="介紹" alt=""/>
+    </file>
+    <file name="u8234.png" crc="3857290960" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="u8234-a.png" crc="3857290960" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="u10218.png" crc="4227904870" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="u10218-a.png" crc="4227904870" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="u10332.png" crc="105662811" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="u10332-a.png" crc="105662811" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="u10304.png" crc="4108667854" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="u10304-a.png" crc="4108667854" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="u10276.png" crc="453929541" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="u10276-a.png" crc="453929541" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="u10248.png" crc="359518639" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="u10248-a.png" crc="359518639" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection"/>
+    <file name="cimg0899-u13218-fr.jpg" crc="4078618244" ref="介紹"/>
+    <file name="black kc_logo copy 2.png" crc="233348852" seo="true" ref="介紹:animal-welfare-and-protection:interview:questionnaire:reflection">
+      <caption webpage="questionnaire" alt=""/>
+      <caption webpage="animal-welfare-and-protection" alt=""/>
+      <caption webpage="reflection" alt=""/>
+      <caption webpage="interview" alt=""/>
+      <caption webpage="介紹" alt=""/>
+    </file>
+    <file name="8q6a7954.jpg" crc="3836048277" seo="true" ref="animal-welfare-and-protection">
+      <caption webpage="animal-welfare-and-protection" alt=""/>
+    </file>
+    <file name="u13045.png" crc="340528159" ref="animal-welfare-and-protection"/>
+    <file name="u13045-a.png" crc="340528159" ref="animal-welfare-and-protection"/>
+    <file name="u13054.png" crc="4054262297" ref="animal-welfare-and-protection"/>
+    <file name="u13054-a.png" crc="4054262297" ref="animal-welfare-and-protection"/>
+    <file name="u13042-4-a.png" crc="4049384903" ref="animal-welfare-and-protection"/>
+    <file name="u13067.png" crc="416351012" ref="animal-welfare-and-protection"/>
+    <file name="u13067-a.png" crc="416351012" ref="animal-welfare-and-protection"/>
+    <file name="u13032.png" crc="3790973638" ref="animal-welfare-and-protection"/>
+    <file name="u13032-a.png" crc="3790973638" ref="animal-welfare-and-protection"/>
+    <file name="u13061.png" crc="3892695086" ref="animal-welfare-and-protection"/>
+    <file name="u13061-a.png" crc="3892695086" ref="animal-welfare-and-protection"/>
+    <file name="footer.png" crc="72676742" ref="index:相關資訊">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button.png" crc="3818276249" ref="index:相關資訊">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+    </file>
+    <file name="u14422.png" crc="147022169" ref="index"/>
+    <file name="u14422-m.png" crc="295109336" ref="index"/>
+    <file name="button-u14422-a.png" crc="147022169" ref="index"/>
+    <file name="u14442.png" crc="351475362" ref="index"/>
+    <file name="u14442-m.png" crc="4006926220" ref="index"/>
+    <file name="button-u14442-a.png" crc="351475362" ref="index"/>
+    <file name="u14428.png" crc="389483309" ref="index"/>
+    <file name="u14428-m.png" crc="39227062" ref="index"/>
+    <file name="button-u14428-a.png" crc="389483309" ref="index"/>
+    <file name="u14417.png" crc="317915820" ref="index"/>
+    <file name="u14417-m.png" crc="119166797" ref="index"/>
+    <file name="button-u14417-a.png" crc="317915820" ref="index"/>
+    <file name="u14437.png" crc="4198275016" ref="index"/>
+    <file name="u14437-m.png" crc="321704932" ref="index"/>
+    <file name="button-u14437-a.png" crc="4198275016" ref="index"/>
+    <file name="u14409.png" crc="316994653" ref="index"/>
+    <file name="u14409-m.png" crc="4189423552" ref="index"/>
+    <file name="button-u14409-a.png" crc="316994653" ref="index"/>
+    <file name="frontlogo.png" crc="78020636" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="introbackground01.png" crc="147569264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_logo.png" crc="4115694744" seo="true" ref="index:相關資訊:計畫總覽:貢獻分配:計畫要素">
+      <caption webpage="index" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+    </file>
+    <file name="upperlogo.jpg" crc="3800365208" seo="true" ref="相關資訊:計畫總覽:貢獻分配:計畫要素">
+      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+    </file>
+    <file name="u12075.png" crc="147022169" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12075-r.png" crc="480541835" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12075-m.png" crc="4138748526" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12075-a.png" crc="147022169" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="u12197.png" crc="351475362" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12197-r.png" crc="215041452" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12197-m.png" crc="14826499" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12197-a.png" crc="351475362" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="u12248.png" crc="389483309" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12248-r.png" crc="386799991" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12248-m.png" crc="3785811326" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12248-a.png" crc="389483309" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="u12351.png" crc="317915820" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12351-r.png" crc="328148896" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12351-m.png" crc="175301904" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12351-a.png" crc="317915820" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="u12301.png" crc="4198275016" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12301-r.png" crc="3854936697" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12301-m.png" crc="4155154256" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u12301-a.png" crc="4198275016" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="u13880.png" crc="316994653" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u13880-r.png" crc="264112744" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u13880-m.png" crc="44453638" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="button-u13880-a.png" crc="316994653" ref="相關資訊:計畫總覽:貢獻分配:計畫要素"/>
+    <file name="background04.jpg" crc="3822374416" ref="相關資訊">
+      <caption webpage="相關資訊" alt=""/>
+    </file>
+    <file name="inkpoint.png" crc="3802025612" seo="true" ref="相關資訊">
+      <caption webpage="相關資訊" alt=""/>
+    </file>
+    <file name="u12950-5.png" crc="3848248534" ref="相關資訊"/>
+    <file name="relateinfo.png" crc="3929212042" seo="true" ref="相關資訊">
+      <caption webpage="相關資訊" alt=""/>
+    </file>
+    <file name="background03.jpg" crc="483631935" ref="相關資訊:計畫總覽:貢獻分配:計畫要素">
+      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+    </file>
+    <file name="inkpoint2.png" crc="3802025612" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u17088-5.png" crc="3854264716" ref="計畫總覽"/>
+    <file name="inkpoint3.png" crc="3802025612" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u16954-5.png" crc="508439498" ref="計畫總覽"/>
+    <file name="inkpoint4.png" crc="3802025612" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u16963-5.png" crc="4200029184" ref="計畫總覽"/>
+    <file name="inkpoint5.png" crc="3802025612" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u17105-5.png" crc="3936360888" ref="計畫總覽"/>
+    <file name="inkpoint6.png" crc="3802025612" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u17111-5.png" crc="499243934" ref="計畫總覽"/>
+    <file name="bird-u16957-fr.png" crc="4110230231" ref="計畫總覽"/>
+    <file name="inkpoint7.png" crc="3802025612" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u17117-5.png" crc="4165853459" ref="計畫總覽"/>
+    <file name="inkpoint8.png" crc="3802025612" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="u17124-5.png" crc="3851358544" ref="計畫總覽"/>
+    <file name="projov.png" crc="202836151" seo="true" ref="計畫總覽">
+      <caption webpage="計畫總覽" alt=""/>
+    </file>
+    <file name="inkpoint9.png" crc="3802025612" seo="true" ref="貢獻分配">
+      <caption webpage="貢獻分配" alt=""/>
+    </file>
+    <file name="u17058-5.png" crc="285793886" ref="貢獻分配"/>
+    <file name="contribute.png" crc="443222099" seo="true" ref="貢獻分配">
+      <caption webpage="貢獻分配" alt=""/>
+    </file>
+  </folder>
+  <file name="介紹.html" crc="253957779" seo="true" mt="1548214544576" redirect="true"/>
+  <file name="animal-welfare-and-protection.html" crc="3767165985" seo="true" mt="1548214544576" redirect="true"/>
+  <file name="interview.html" crc="4221554355" seo="true" mt="1548214544576" redirect="true"/>
+  <file name="questionnaire.html" crc="80217710" seo="true" mt="1548214544576" redirect="true"/>
+  <file name="reflection.html" crc="4026613539" seo="true" mt="1548214544576" redirect="true"/>
+  <file name="index.html" crc="492004677" seo="true" mt="1548166523450" redirect="true"/>
+  <file name="相關資訊.html" crc="4010276440" seo="true" mt="1548214306769" redirect="true"/>
+  <file name="計畫總覽.html" crc="3964184960" seo="true" mt="1548214283741" redirect="true"/>
+  <file name="貢獻分配.html" crc="403123045" seo="true" mt="1548214320727" redirect="true"/>
+  <file name="計畫要素.html" crc="85891369" seo="true" mt="1548213191859" redirect="true"/>
+</manifest>
