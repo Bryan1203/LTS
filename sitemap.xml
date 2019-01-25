@@ -45,6 +45,9 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/inkpoint2.png</image:loc>
     </image:image>
     <image:image>
@@ -63,13 +66,10 @@
       <image:loc>http://test.com/images/inkpoint7.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://test.com/images/projov.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount02.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -102,13 +102,13 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/plandecision.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount02.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
   </url>
   <url>
