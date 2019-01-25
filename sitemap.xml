@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>http://test.com/relatedinfo.html</loc>
-    <lastmod>2019-01-24</lastmod>
+    <lastmod>2019-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,7 +35,7 @@
   </url>
   <url>
     <loc>http://test.com/projectoverview.html</loc>
-    <lastmod>2019-01-24</lastmod>
+    <lastmod>2019-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -71,7 +71,7 @@
   </url>
   <url>
     <loc>http://test.com/contribute.html</loc>
-    <lastmod>2019-01-24</lastmod>
+    <lastmod>2019-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -89,7 +89,7 @@
   </url>
   <url>
     <loc>http://test.com/plan.html</loc>
-    <lastmod>2019-01-24</lastmod>
+    <lastmod>2019-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -107,7 +107,7 @@
   </url>
   <url>
     <loc>http://test.com/mainpage.html</loc>
-    <lastmod>2019-01-24</lastmod>
+    <lastmod>2019-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -121,20 +121,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/%E7%94%B1%E4%BE%86%E5%8F%8A%E6%AD%B7%E5%8F%B2.html</loc>
-    <lastmod>2019-01-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test.com/images/home_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://test.com/%E6%BC%86%E7%B7%9A%E9%9B%95%E5%B8%AB%E5%82%85.html</loc>
-    <lastmod>2019-01-24</lastmod>
+    <lastmod>2019-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -146,7 +134,7 @@
   </url>
   <url>
     <loc>http://test.com/%E8%A3%BD%E4%BD%9C%E9%81%8E%E7%A8%8B.html</loc>
-    <lastmod>2019-01-24</lastmod>
+    <lastmod>2019-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -158,7 +146,7 @@
   </url>
   <url>
     <loc>http://test.com/%E5%83%B9%E5%80%BC%E8%88%87%E7%99%BC%E5%B1%95.html</loc>
-    <lastmod>2019-01-24</lastmod>
+    <lastmod>2019-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -170,7 +158,7 @@
   </url>
   <url>
     <loc>http://test.com/%E5%95%8F%E5%8D%B7.html</loc>
-    <lastmod>2019-01-24</lastmod>
+    <lastmod>2019-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -182,7 +170,7 @@
   </url>
   <url>
     <loc>http://test.com/%E5%BF%83%E5%BE%97.html</loc>
-    <lastmod>2019-01-24</lastmod>
+    <lastmod>2019-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
