@@ -68,6 +68,9 @@
     <image:image>
       <image:loc>http://test.com/images/projov.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/mount02.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test.com/contribute.html</loc>
@@ -104,6 +107,9 @@
     <image:image>
       <image:loc>http://test.com/images/plandecision.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/mount02.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test.com/mainpage.html</loc>
@@ -118,6 +124,9 @@
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/mount02.png</image:loc>
     </image:image>
   </url>
   <url>
