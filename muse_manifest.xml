@@ -1,41 +1,42 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1549803438450">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1549803586433">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_home.css" crc="178850771" ref="網站首頁"/>
+    <file name="master_home.css" crc="178850771" ref="home"/>
     <file name="master_intro.css" crc="318855322" ref="contribute:projectoverview:plan:index"/>
     <file name="index.css" crc="3838703517" ref="index"/>
     <file name="mainpage.css" crc="364711286" ref="mainpage"/>
-    <file name="contribute.css" crc="3805797504" ref="contribute"/>
+    <file name="contribute.css" crc="3977127888" ref="contribute"/>
     <file name="projectoverview.css" crc="360227615" ref="projectoverview"/>
     <file name="plan.css" crc="19500453" ref="plan"/>
     <file name="master_mainpage.css" crc="4266072338" ref="心得:問卷:漆線雕師傅:價值與發展:製作過程:mainpage"/>
     <file name="__1.css" crc="179707436" ref="心得"/>
     <file name="__.css" crc="179707436" ref="問卷"/>
     <file name="_____1.css" crc="179707436" ref="價值與發展"/>
-    <file name="____.css" crc="199801867" ref="網站首頁"/>
+    <file name="____.css" crc="179707436" ref="製作過程"/>
     <file name="_____.css" crc="179707436" ref="漆線雕師傅"/>
-    <file name="____1.css" crc="179707436" ref="製作過程"/>
+    <file name="home.css" crc="199801867" ref="home"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:網站首頁"/>
-    <file name="museutils.js" crc="340535759" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:網站首頁"/>
-    <file name="whatinput.js" crc="86476730" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:網站首頁"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:網站首頁"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:projectoverview:plan:mainpage:網站首頁"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:網站首頁"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:網站首頁"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:網站首頁"/>
-    <file name="require.js" crc="7928878" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:網站首頁"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:home"/>
+    <file name="museutils.js" crc="340535759" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:home"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:home"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:home"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:projectoverview:plan:mainpage:home"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:home"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:home"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:home"/>
+    <file name="require.js" crc="7928878" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:home"/>
   </folder>
   <folder name="images">
-    <file name="footer.png" crc="72676742" ref="index:mainpage:網站首頁">
+    <file name="footer.png" crc="72676742" ref="index:mainpage:home">
       <caption webpage="index" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="網站首頁" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:網站首頁"/>
-    <file name="button.png" crc="3818276249" ref="index:mainpage:contribute:網站首頁">
+    <file name="blank.gif" crc="4208392903" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:home"/>
+    <file name="button.png" crc="3818276249" ref="index:mainpage:home">
       <caption webpage="mainpage" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="mainpage" alt=""/>
@@ -59,35 +60,17 @@
       <caption webpage="網站首頁" alt=""/>
       <caption webpage="網站首頁" alt=""/>
       <caption webpage="網站首頁" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -98,24 +81,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="projectoverview" alt=""/>
@@ -134,6 +99,35 @@
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="projectoverview" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="contribute" alt=""/>
@@ -143,65 +137,87 @@
       <caption webpage="contribute" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="contribute" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
     </file>
-    <file name="frontlogohd.png" crc="3767328023" seo="true" ref="網站首頁">
+    <file name="frontlogohd.png" crc="3767328023" seo="true" ref="home">
       <caption webpage="index" alt=""/>
       <caption webpage="網站首頁" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
-    <file name="introbackground01.png" crc="155101884" seo="true" ref="網站首頁">
+    <file name="introbackground01.png" crc="155101884" seo="true" ref="home">
       <caption webpage="index" alt=""/>
       <caption webpage="網站首頁" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
-    <file name="home_logo.png" crc="4229506877" seo="true" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:網站首頁">
-      <caption webpage="價值與發展" alt=""/>
-      <caption webpage="貢獻分配" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="計畫總覽" alt=""/>
-      <caption webpage="漆線雕師傅" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="問卷" alt=""/>
-      <caption webpage="plan" alt=""/>
+    <file name="home_logo.png" crc="4229506877" seo="true" ref="index:projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:home">
       <caption webpage="漆線雕" alt=""/>
-      <caption webpage="由來及歷史" alt=""/>
+      <caption webpage="價值與發展" alt=""/>
+      <caption webpage="問卷" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="漆線雕師傅" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="由來及歷史" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="製作過程" alt=""/>
-      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="心得" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
     </file>
     <file name="upperlogo.jpg" crc="3800365208" seo="true" ref="projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:index">
-      <caption webpage="價值與發展" alt=""/>
-      <caption webpage="貢獻分配" alt=""/>
-      <caption webpage="計畫總覽" alt=""/>
-      <caption webpage="漆線雕師傅" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="問卷" alt=""/>
-      <caption webpage="plan" alt=""/>
       <caption webpage="漆線雕" alt=""/>
-      <caption webpage="由來及歷史" alt=""/>
+      <caption webpage="價值與發展" alt=""/>
+      <caption webpage="問卷" alt=""/>
+      <caption webpage="漆線雕師傅" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="由來及歷史" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="心得" alt=""/>
-      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="製作過程" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
     </file>
     <file name="background04.jpg" crc="3822374416" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
     </file>
     <file name="inkpoint.png" crc="3802025612" seo="true" ref="mainpage:index:plan">
       <caption webpage="index" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="plan" alt=""/>
       <caption webpage="plan" alt=""/>
@@ -212,34 +228,33 @@
       <caption webpage="plan" alt=""/>
       <caption webpage="plan" alt=""/>
       <caption webpage="plan" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
     </file>
     <file name="u12950-5.png" crc="3848248534" ref="index"/>
     <file name="relateinfo.png" crc="3929212042" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
     </file>
     <file name="background03.jpg" crc="483631935" ref="projectoverview:contribute:plan:mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得:index">
-      <caption webpage="價值與發展" alt=""/>
-      <caption webpage="貢獻分配" alt=""/>
-      <caption webpage="計畫總覽" alt=""/>
-      <caption webpage="漆線雕師傅" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="問卷" alt=""/>
-      <caption webpage="plan" alt=""/>
       <caption webpage="漆線雕" alt=""/>
-      <caption webpage="由來及歷史" alt=""/>
+      <caption webpage="價值與發展" alt=""/>
+      <caption webpage="問卷" alt=""/>
+      <caption webpage="漆線雕師傅" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="由來及歷史" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="心得" alt=""/>
-      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="製作過程" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
     </file>
     <file name="inkpoint2.png" crc="3802025612" seo="true" ref="projectoverview">
       <caption webpage="計畫總覽" alt=""/>
@@ -314,8 +329,8 @@
     </file>
     <file name="u17571-5.png" crc="186485098" ref="plan"/>
     <file name="bug01.png" crc="4008308592" ref="projectoverview:mainpage">
-      <caption webpage="projectoverview" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="projectoverview" alt=""/>
     </file>
     <file name="butterfly.png" crc="153509578" ref="projectoverview:plan">
       <caption webpage="plan" alt=""/>
@@ -352,45 +367,32 @@
     <file name="about.png" crc="3836596684" ref="mainpage">
       <caption webpage="mainpage" alt=""/>
     </file>
-    <file name="u20054.png" crc="174224895" ref="contribute"/>
-    <file name="button-u20054-r.png" crc="308231421" ref="contribute"/>
-    <file name="button-u20054-m.png" crc="4052498517" ref="contribute"/>
-    <file name="button-u20054-a.png" crc="174224895" ref="contribute"/>
-    <file name="u20019.png" crc="459405381" ref="contribute"/>
-    <file name="button-u20019-r.png" crc="167675851" ref="contribute"/>
-    <file name="button-u20019-m.png" crc="116890167" ref="contribute"/>
-    <file name="button-u20019-a.png" crc="459405381" ref="contribute"/>
-    <file name="u20029.png" crc="511977368" ref="contribute"/>
-    <file name="button-u20029-r.png" crc="453517355" ref="contribute"/>
-    <file name="button-u20029-m.png" crc="80641700" ref="contribute"/>
-    <file name="button-u20029-a.png" crc="511977368" ref="contribute"/>
-    <file name="button-u20033-4-a.png" crc="28114020" ref="contribute"/>
     <file name="u20878.png" crc="3834517120" ref="mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得"/>
     <file name="u20878-m.png" crc="4139422200" ref="mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得"/>
     <file name="u20878-a.png" crc="3834517120" ref="mainpage:漆線雕師傅:製作過程:價值與發展:問卷:心得"/>
     <file name="mount05.png" crc="258918163" seo="true" ref="projectoverview:plan:mainpage">
       <caption webpage="plan" alt=""/>
-      <caption webpage="mainpage" alt=""/>
       <caption webpage="projectoverview" alt=""/>
+      <caption webpage="mainpage" alt=""/>
     </file>
-    <file name="u21434.png" crc="100271573" ref="網站首頁"/>
-    <file name="u21434-m.png" crc="3802686278" ref="網站首頁"/>
-    <file name="u21434-a.png" crc="100271573" ref="網站首頁"/>
-    <file name="u21414.png" crc="506445602" ref="網站首頁"/>
-    <file name="u21414-m.png" crc="3837788529" ref="網站首頁"/>
-    <file name="u21414-a.png" crc="506445602" ref="網站首頁"/>
-    <file name="u21427.png" crc="3834517120" ref="網站首頁"/>
-    <file name="u21427-m.png" crc="4139422200" ref="網站首頁"/>
-    <file name="u21427-a.png" crc="3834517120" ref="網站首頁"/>
-    <file name="u21406.png" crc="3827201692" ref="網站首頁"/>
-    <file name="u21406-m.png" crc="3953272673" ref="網站首頁"/>
-    <file name="u21406-a.png" crc="3827201692" ref="網站首頁"/>
-    <file name="u21401.png" crc="4114336726" ref="網站首頁"/>
-    <file name="u21401-m.png" crc="3996375192" ref="網站首頁"/>
-    <file name="u21401-a.png" crc="4114336726" ref="網站首頁"/>
-    <file name="u21420.png" crc="4224184920" ref="網站首頁"/>
-    <file name="u21420-m.png" crc="3960873856" ref="網站首頁"/>
-    <file name="u21420-a.png" crc="4224184920" ref="網站首頁"/>
+    <file name="u21434.png" crc="100271573" ref="home"/>
+    <file name="u21434-m.png" crc="3802686278" ref="home"/>
+    <file name="u21434-a.png" crc="100271573" ref="home"/>
+    <file name="u21414.png" crc="506445602" ref="home"/>
+    <file name="u21414-m.png" crc="3837788529" ref="home"/>
+    <file name="u21414-a.png" crc="506445602" ref="home"/>
+    <file name="u21427.png" crc="3834517120" ref="home"/>
+    <file name="u21427-m.png" crc="4139422200" ref="home"/>
+    <file name="u21427-a.png" crc="3834517120" ref="home"/>
+    <file name="u21406.png" crc="3827201692" ref="home"/>
+    <file name="u21406-m.png" crc="3953272673" ref="home"/>
+    <file name="u21406-a.png" crc="3827201692" ref="home"/>
+    <file name="u21401.png" crc="4114336726" ref="home"/>
+    <file name="u21401-m.png" crc="3996375192" ref="home"/>
+    <file name="u21401-a.png" crc="4114336726" ref="home"/>
+    <file name="u21420.png" crc="4224184920" ref="home"/>
+    <file name="u21420-m.png" crc="3960873856" ref="home"/>
+    <file name="u21420-a.png" crc="4224184920" ref="home"/>
     <file name="u21305.png" crc="4171666431" ref="index:projectoverview:contribute:plan"/>
     <file name="u21305-m.png" crc="4076607881" ref="index:projectoverview:contribute:plan"/>
     <file name="u21305-a.png" crc="4171666431" ref="index:projectoverview:contribute:plan"/>
@@ -407,15 +409,15 @@
     <file name="u21272-m.png" crc="3849998528" ref="index:projectoverview:contribute:plan"/>
     <file name="u21272-a.png" crc="141473799" ref="index:projectoverview:contribute:plan"/>
   </folder>
-  <file name="index.html" crc="4148354258" seo="true" mt="1549802339977" redirect="true"/>
-  <file name="projectoverview.html" crc="275874370" seo="true" mt="1549802339977" redirect="true"/>
-  <file name="contribute.html" crc="460693470" seo="true" mt="1549802339977" redirect="true"/>
-  <file name="plan.html" crc="4064410235" seo="true" mt="1549802339977" redirect="true"/>
-  <file name="mainpage.html" crc="4664906" seo="true" mt="1549802339973" redirect="true"/>
-  <file name="漆線雕師傅.html" crc="457012061" seo="true" mt="1549802339973" redirect="true"/>
-  <file name="製作過程.html" crc="318433420" seo="true" mt="1549802339973" redirect="true"/>
-  <file name="價值與發展.html" crc="216371989" seo="true" mt="1549802339973" redirect="true"/>
-  <file name="問卷.html" crc="93752825" seo="true" mt="1549802339973" redirect="true"/>
-  <file name="心得.html" crc="36240314" seo="true" mt="1549802339973" redirect="true"/>
-  <file name="網站首頁.html" crc="440540843" seo="true" mt="1549802339979" redirect="true"/>
+  <file name="index.html" crc="489577350" seo="true" mt="1549803577019" redirect="true"/>
+  <file name="projectoverview.html" crc="246283505" seo="true" mt="1549803577019" redirect="true"/>
+  <file name="contribute.html" crc="4050991643" seo="true" mt="1549803577019" redirect="true"/>
+  <file name="plan.html" crc="4041967751" seo="true" mt="1549803577019" redirect="true"/>
+  <file name="mainpage.html" crc="105812745" seo="true" mt="1549803577016" redirect="true"/>
+  <file name="漆線雕師傅.html" crc="274457042" seo="true" mt="1549803577016" redirect="true"/>
+  <file name="製作過程.html" crc="4138511392" seo="true" mt="1549803577016" redirect="true"/>
+  <file name="價值與發展.html" crc="263885138" seo="true" mt="1549803577016" redirect="true"/>
+  <file name="問卷.html" crc="345701671" seo="true" mt="1549803577016" redirect="true"/>
+  <file name="心得.html" crc="234921664" seo="true" mt="1549803577016" redirect="true"/>
+  <file name="home.html" crc="4160226018" seo="true" mt="1549803577022" redirect="true"/>
 </manifest>
