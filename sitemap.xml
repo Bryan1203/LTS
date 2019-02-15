@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>http://test.com/mainpage.html</loc>
-    <lastmod>2019-02-10</lastmod>
+    <lastmod>2019-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>http://test.com/home.html</loc>
-    <lastmod>2019-02-10</lastmod>
+    <lastmod>2019-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -186,7 +186,7 @@
       <image:loc>http://test.com/images/introbackground01.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/home_logo.png</image:loc>
+      <image:loc>http://test.com/images/home_logo01.png</image:loc>
     </image:image>
   </url>
 </urlset>
