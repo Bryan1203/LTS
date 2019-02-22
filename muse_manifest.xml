@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1550852015453">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1550852233776">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_home.css" crc="4129488348" ref="index"/>
@@ -15,7 +15,7 @@
     <file name="steps.css" crc="275787480" ref="steps"/>
     <file name="master.css" crc="4013135057" ref="master"/>
     <file name="___.css" crc="4113083441" ref="顏金益"/>
-    <file name="narrative.css" crc="3933998548" ref="narrative"/>
+    <file name="narrative.css" crc="3867006983" ref="narrative"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:顏金益:narrative"/>
@@ -91,16 +91,17 @@
       <caption webpage="relatedinfo" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -163,17 +164,16 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
     </file>
     <file name="frontlogohd.png" crc="3767328023" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -187,13 +187,13 @@
     </file>
     <file name="home_logo.png" crc="4037911285" seo="true" ref="projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:顏金益:narrative">
       <caption webpage="由來及歷史" alt=""/>
-      <caption webpage="顏金益" alt=""/>
+      <caption webpage="quationnarie" alt=""/>
       <caption webpage="計畫總覽" alt=""/>
       <caption webpage="narrative" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="問卷" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="漆線雕師傅" alt=""/>
       <caption webpage="計畫要素" alt=""/>
@@ -204,41 +204,41 @@
       <caption webpage="thoughts" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="plan" alt=""/>
-      <caption webpage="quationnarie" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="貢獻分配" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="steps" alt=""/>
       <caption webpage="價值與發展" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="顏金益" alt=""/>
       <caption webpage="漆線雕" alt=""/>
     </file>
     <file name="upperlogo.jpg" crc="3800365208" seo="true" ref="projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:顏金益:narrative">
-      <caption webpage="steps" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="漆線雕師傅" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="quationnarie" alt=""/>
+      <caption webpage="由來及歷史" alt=""/>
       <caption webpage="心得" alt=""/>
-      <caption webpage="顏金益" alt=""/>
       <caption webpage="製作過程" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="由來及歷史" alt=""/>
-      <caption webpage="thoughts" alt=""/>
+      <caption webpage="漆線雕師傅" alt=""/>
       <caption webpage="narrative" alt=""/>
       <caption webpage="相關資訊" alt=""/>
       <caption webpage="mainpage" alt=""/>
-      <caption webpage="master" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
       <caption webpage="plan" alt=""/>
+      <caption webpage="thoughts" alt=""/>
       <caption webpage="問卷" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="future" alt=""/>
-      <caption webpage="貢獻分配" alt=""/>
-      <caption webpage="projectoverview" alt=""/>
       <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="future" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="projectoverview" alt=""/>
+      <caption webpage="steps" alt=""/>
       <caption webpage="價值與發展" alt=""/>
       <caption webpage="計畫要素" alt=""/>
-      <caption webpage="quationnarie" alt=""/>
+      <caption webpage="顏金益" alt=""/>
       <caption webpage="漆線雕" alt=""/>
     </file>
     <file name="background04.jpg" crc="3822374416" ref="narrative">
@@ -281,29 +281,29 @@
       <caption webpage="相關資訊" alt=""/>
     </file>
     <file name="background03.jpg" crc="483631935" ref="projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:顏金益:narrative">
-      <caption webpage="steps" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="漆線雕師傅" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="quationnarie" alt=""/>
+      <caption webpage="由來及歷史" alt=""/>
       <caption webpage="心得" alt=""/>
-      <caption webpage="顏金益" alt=""/>
       <caption webpage="製作過程" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="由來及歷史" alt=""/>
-      <caption webpage="thoughts" alt=""/>
+      <caption webpage="漆線雕師傅" alt=""/>
       <caption webpage="narrative" alt=""/>
       <caption webpage="相關資訊" alt=""/>
       <caption webpage="mainpage" alt=""/>
-      <caption webpage="master" alt=""/>
+      <caption webpage="contribute" alt=""/>
       <caption webpage="plan" alt=""/>
+      <caption webpage="thoughts" alt=""/>
       <caption webpage="問卷" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="future" alt=""/>
-      <caption webpage="貢獻分配" alt=""/>
-      <caption webpage="projectoverview" alt=""/>
       <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="future" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="projectoverview" alt=""/>
+      <caption webpage="steps" alt=""/>
       <caption webpage="價值與發展" alt=""/>
       <caption webpage="計畫要素" alt=""/>
-      <caption webpage="quationnarie" alt=""/>
+      <caption webpage="顏金益" alt=""/>
       <caption webpage="漆線雕" alt=""/>
     </file>
     <file name="inkpoint2.png" crc="3802025612" seo="true" ref="projectoverview">
@@ -527,5 +527,5 @@
   <file name="quationnarie.html" crc="4042494232" seo="true" mt="1550848714039" redirect="true"/>
   <file name="thoughts.html" crc="4018557438" seo="true" mt="1550848714039" redirect="true"/>
   <file name="顏金益.html" crc="3903336374" seo="true" mt="1550851131082" redirect="true"/>
-  <file name="narrative.html" crc="320495200" seo="true" mt="1550851998363" redirect="true"/>
+  <file name="narrative.html" crc="4260986076" seo="true" mt="1550852198080" redirect="true"/>
 </manifest>
