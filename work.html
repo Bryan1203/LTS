@@ -11,21 +11,70 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "_______.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "work.css"], "outOfDate":[]};
 </script>
   
-  <title>傳統技藝資料庫</title>
+  <title>浮光魅影-漆線雕</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
   <link rel="stylesheet" type="text/css" href="css/master_mainpage.css?crc=317077834"/>
-  <link rel="stylesheet" type="text/css" href="css/_______.css?crc=4220453518" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/work.css?crc=4162369017" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
-   </head>
+    <!--HTML Widget code-->
+  <style type="text/css">#u23644.size_fluid_width_height iframe { position:absolute; left:0; top:0; }</style> 
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+            <style>
+                 .top{
+                    transition: all .5s ease;
+                    opacity: 0 !important;
+                    //margin-top: 100px !important;
+					transform:translate3d(0,200px,0);
+                }
+
+                .top-after{
+                    opacity:1 !important;
+                    margin-top:0px !important;
+                    cursor:pointer;
+					transform:translate3d(0,0,0);
+                }
+            </style>
+		
+ </head>
  <body>
 
+  <!--HTML Widget code-->
+   
+<!------------------------------------------------------------------------------
+================================================================================
+--------------------------------------------------------------------------------
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||   |||||     ||||   |||     ||      |||   ||||   |  ||  |       |      |
+||||  |  ||||  |   |   |   |  ||  |  |||||||    ||    |  ||  |   |||||  |||||
+|||  |||  |||  ||  |  |||  |     ||    |||||          |  ||  ||    |||    |||
+||         ||  |   |   |   |  ||  |  |||||||  |    |  |  ||  |||||   |  |||||
+|   |||||   |     ||||   |||     ||      |||  ||  ||  |      |       |      |
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|      |  |||  |      |      |      |        |||||    |||||   ||||   ||||   |
+|  ||||||  |  ||  ||  |  |||||  ||  ||||  |||||||  ||  ||   |   ||    ||    |
+|    |||||   |||      |    |||      ||||  |||||||  ||||||  |||  ||          |
+|  ||||||  |  ||  |||||  |||||  |  |||||  |||||||  ||  ||   |   ||  |    |  |
+|      |  |||  |  |||||      |  ||  ||||  |||  |||    |||||   ||||  ||  ||  |
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+This website uses widget(s) from AdobeMuseExpert.com // This widgets are fee
+to use and available for download at: http://adobemuseexpert.com/
+
+--------------------------------------------------------------------------------
+================================================================================
+------------------------------------------------------------------------------->  
+		
+  
   <div class="clearfix borderbox" id="page"><!-- group -->
    <div class="clearfix grpelem" id="ppu17903"><!-- column -->
     <div class="clearfix colelem" id="pu17903"><!-- group -->
@@ -52,7 +101,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <ul class="SubMenuView clearfix colelem" id="u23990"><!-- vertical box -->
          <li class="MenuItemContainer clearfix colelem" id="u23998"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u23999" href="master.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- horizontal box --><img class="MenuItemLabel NoWrap grpelem" id="u24001-4" alt="林家億" width="48" height="21" src="images/u24001-4.png?crc=3794701889"/><!-- rasterized frame --></a></li>
          <li class="MenuItemContainer clearfix colelem" id="u24005"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u24006" href="mryen.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- horizontal box --><img class="MenuItemLabel NoWrap grpelem" id="u24007-5" alt="顏金益 " width="48" height="21" src="images/u24007-5.png?crc=4284363696"/><!-- rasterized frame --></a></li>
-         <li class="MenuItemContainer clearfix colelem" id="u23991"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u23992" href="%e4%bd%9c%e5%93%81%e4%bb%8b%e7%b4%b9.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- horizontal box --><img class="MenuItemLabel NoWrap grpelem" id="u23993-4" alt="作品介紹" width="62" height="21" src="images/u23993-4.png?crc=8038299"/><!-- rasterized frame --></a></li>
+         <li class="MenuItemContainer clearfix colelem" id="u23991"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u23992" href="work.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- horizontal box --><img class="MenuItemLabel NoWrap grpelem" id="u23993-4" alt="作品介紹" width="62" height="21" src="images/u23993-4.png?crc=8038299"/><!-- rasterized frame --></a></li>
         </ul>
        </div>
       </div>
@@ -78,47 +127,80 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </nav>
     </div>
-    <div class="browser_width colelem" id="u23540-bw">
-     <div class="museBGSize" id="u23540"><!-- group -->
-      <div class="clearfix" id="u23540_align_to_page">
-       <img class="grpelem" id="u23541-4" alt="傳統技藝資料庫" src="images/u23541-4.png?crc=164877357" data-image-width="505"/><!-- rasterized frame -->
+    <div class="browser_width colelem" id="u23602-bw">
+     <div class="museBGSize" id="u23602"><!-- group -->
+      <div class="clearfix" id="u23602_align_to_page">
+       <img class="grpelem" id="u23603-4" alt="作品介紹" src="images/u23603-4.png?crc=533535767" data-image-width="292"/><!-- rasterized frame -->
       </div>
      </div>
     </div>
-    <div class="clearfix colelem" id="pu23543"><!-- group -->
-     <div class="clip_frame grpelem" id="u23543"><!-- image -->
-      <img class="block" id="u23543_img" src="images/inkpoint.png?crc=3802025612" alt="" data-heightwidthratio="0.9512195121951219" data-image-width="41" data-image-height="39"/>
+    <div class="clearfix colelem" id="pu23605"><!-- group -->
+     <div class="clip_frame grpelem" id="u23605"><!-- image -->
+      <img class="block" id="u23605_img" src="images/inkpoint.png?crc=3802025612" alt="" data-heightwidthratio="0.9512195121951219" data-image-width="41" data-image-height="39"/>
      </div>
-     <img class="grpelem" id="u23545-5" alt="一，傳統木工藝" src="images/u23545-5.png?crc=3946456702" data-image-width="660"/><!-- rasterized frame -->
+     <img class="grpelem" id="u23607-5" alt="一，林家億師傅：包青天" src="images/u23607-5.png?crc=4170407566" data-image-width="660"/><!-- rasterized frame -->
     </div>
-    <div class="clearfix colelem" id="u23542-4"><!-- content -->
-     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 唯有傳承才能讓一門學問、一項技術、一手工藝，不被環境和時間的淬煉摧毀而銷聲匿跡。唯有承襲百年傳統，交替到下一代年輕人手中，漆線雕才能生存、甚至被運用在尚未探索的媒介上，不會成為漸漸被遺忘的記憶。</p>
+    <div class="clearfix colelem" id="u23604-4"><!-- content -->
+     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 包青天這個神話，源於北宋宋仁宗時期的包拯。因為包拯的廉明公正，後世人將它奉為神明，譽為「包青天」。歐陽修稱包青天「清節美行，著自貧賤，讜言正論，聞於朝廷。」，可見其之鐵面無私。包青天審案「夜審陰，日審陽」，而是認為了紀念祂，建立了廟宇，更衍生出了眾多藝術品。</p>
     </div>
-    <div class="clearfix colelem" id="pu23549"><!-- group -->
-     <div class="museBGSize grpelem" id="u23549"><!-- simple frame --></div>
-     <div class="clearfix grpelem" id="ppu23546-4"><!-- column -->
-      <div class="clearfix colelem" id="pu23546-4"><!-- group -->
-       <div class="clearfix grpelem" id="u23546-4"><!-- content -->
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 林家億師傅認為傳承漆線雕這項傳統工藝技術只能隨緣，當緣份和時機來臨自然會有人願意學習這項傳統技藝，並不是透過強求便能達成的。他知道自己不能要求他人向自己學習製作漆線雕，若對這項技藝沒有熱情，作品自然不會有出眾的品質或是它的獨特之處。只有隨緣，讓喜歡這樣工藝、願意學習及傳承漆線雕的人找到林師傅，才能真正的將漆線雕的精神和精隨傳承給未</p>
+    <div class="clearfix colelem" id="pu23610"><!-- group -->
+     <div class="museBGSize grpelem" id="u23610"><!-- simple frame --></div>
+     <div class="clearfix grpelem" id="ppu23608-4"><!-- column -->
+      <div class="clearfix colelem" id="pu23608-4"><!-- group -->
+       <div class="clearfix grpelem" id="u23608-4"><!-- content -->
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 林家億師傅的包青天，不但傳達了祂「清正廉明」的形象，更融入從未被人用過的「陰陽元素」。包青天早上在陽間辦案，晚上在陰間辦案，而林家億師傅稱此為「可在陰陽間來去自如」，進而產生加入陰陽元素的想發。林家億師傅大膽的在包青天的龍袍上放入許多陰陽圖案。舉例來講，包青天神像的褲擺上，便有兩隻鰲魚；一個陰，一個陽，便形成了一個太極形狀。</p>
        </div>
-       <div class="museBGSize grpelem" id="u23550"><!-- simple frame --></div>
+       <div class="museBGSize grpelem" id="u23611"><!-- simple frame --></div>
       </div>
-      <div class="clearfix colelem" id="u23547-4"><!-- content -->
-       <p>來的師傅們，一切都聽天由命。尚若真的有人前來學習漆線雕，林家億師傅認為學習態度和練習是成就一位好師傅的關鍵，不過他目前受委託的作品多為非常精細且複雜的漆線雕，也坦承讓學徒練習基本技巧的工作量並不多。</p>
+      <div class="clearfix colelem" id="u23641-4"><!-- content -->
+       <p>而龍的眼睛一黑一白，也傳達了包青天與陰陽元素的連結。</p>
+      </div>
+      <div class="size_fluid_width_height colelem" id="u23644" data-pintopage="page_fluidx" data-sizePolicy="fluidWidthHeight"><!-- custom html -->
+       <div class="fluid_height_spacer"></div>
+       
+<iframe class="actAsDiv" style="width:100%;height:100%;" src="//www.youtube.com/embed/uiXEMPsYVew?autoplay=0&loop=0&showinfo=0&theme=light&color=red&controls=1&modestbranding=0&start=0&fs=1&iv_load_policy=1&wmode=transparent&rel=1" frameborder="0" allowfullscreen></iframe>
+
       </div>
      </div>
     </div>
-    <div class="clearfix colelem" id="pu23551"><!-- group -->
-     <div class="museBGSize grpelem" id="u23551"><!-- simple frame --></div>
-     <div class="clearfix grpelem" id="u23548-4"><!-- content -->
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 顏金益師傅則認為當急之務必為傳承漆線雕為屬，避免這項傳統技術在這一代失傳。他希望未來的人們有機會認識且欣賞漆線雕，也能繼續探索並將其延伸。顏師傅透過展覽和接受訪談的方式讓大眾及學生可以認識漆線雕，增加曝光率，民眾唯有先發掘漆線雕才能更進一步嘹解它。顏老師也盡力將他的每一項作品做到完美，希望可以讓更多人看見漆線雕的無限可能和優</p>
+    <div class="clearfix colelem" id="pu23650"><!-- group -->
+     <div class="clip_frame grpelem" id="u23650"><!-- image -->
+      <img class="block" id="u23650_img" src="images/inkpoint.png?crc=3802025612" alt="" data-heightwidthratio="0.9512195121951219" data-image-width="41" data-image-height="39"/>
+     </div>
+     <img class="grpelem" id="u23652-5" alt="二，顏金益師傅：九龍聚寶甕" src="images/u23652-5.png?crc=3813483286" data-image-width="660"/><!-- rasterized frame -->
+    </div>
+    <div class="clearfix colelem" id="pu23649-4"><!-- group -->
+     <div class="clearfix grpelem" id="u23649-4"><!-- content -->
+      <p>顏金益師傅的著名大作「九龍天目聚寶甕」將平時佛像上才能見到的漆線雕工藝延伸至陶甕上，使得作品更貼近生活卻不失它的收藏價值，和佛像相比也更適合擺示。顏師父不僅使用五種不同的工法製作龍鱗片，每一隻龍的細節更截然不同。盤繞在陶甕上的九隻飛龍不僅帶有金碧輝煌的感覺，更是吉祥的象徵。「九龍天目聚寶甕」顯現了顏金益師傅對成就一件漆線雕作品的執著，即便是不起眼的小細節他也盡心</p>
+     </div>
+     <div class="clearfix grpelem" id="pu23655"><!-- column -->
+      <div class="museBGSize colelem" id="u23655"><!-- simple frame --></div>
+      <div class="clearfix colelem" id="u23690-6"><!-- content -->
+       <p>圖片來源:<a class="nonblock" href="https://taiwan-craft.com.tw/portfolio-items/%E9%A1%8F%E9%87%91%E7%9B%8A/">台灣工藝發展協會</a></p>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u23687-4"><!-- content -->
+     <p>盡力做到最好，他的堅持也讓「九龍天目聚寶甕」入選2014年臺灣工藝競賽，更在2016年於總統府展出。</p>
+    </div>
+    <div class="clearfix colelem" id="pu23693"><!-- group -->
+     <div class="museBGSize grpelem" id="u23693"><!-- simple frame --></div>
+     <div class="size_fixed grpelem" id="u23716" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- custom html -->
+      
+
+		
      </div>
     </div>
    </div>
-   <div class="browser_width" id="u17964-bw">
-    <div id="u17964"><!-- simple frame --></div>
+   <div class="clearfix grpelem" id="pu17964"><!-- group -->
+    <div class="browser_width" id="u17964-bw">
+     <div id="u17964"><!-- simple frame --></div>
+    </div>
+    <div class="top clip_frame" id="u23717"><!-- image -->
+     <img class="block" id="u23717_img" src="images/mount05.png?crc=258918163" alt="" width="68" height="60"/>
+    </div>
    </div>
-   <div class="verticalspacer" data-offset-top="1056" data-content-above-spacer="1056" data-content-below-spacer="99" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="1654" data-content-above-spacer="1654" data-content-below-spacer="100" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    <div class="clip_frame grpelem" id="u17967"><!-- image -->
     <img class="block" id="u17967_img" src="images/home_logo.png?crc=4037911285" alt="" data-heightwidthratio="0.29577464788732394" data-image-width="213" data-image-height="63"/>
    </div>
@@ -142,6 +224,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <img class="preload" src="images/u24039-m.png?crc=3977239352" alt=""/>
    <img class="preload" src="images/u24039-a.png?crc=170122780" alt=""/>
   </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
+</script>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide whether to suppress missing file error or not based on preference setting
@@ -169,5 +258,30 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=7928878" type="text/javascript" async data-main="scripts/museconfig.js?crc=4286661555" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  
+  <!--HTML Widget code-->
+  
+            <script type="text/javascript">
+            console.log("Widgets: AdobeMuseExpert.com");
+            </script>
+            <script type="text/javascript">
+                $(document).ready(function(){
+                $(window).scroll(function(){
+                    if($(this).scrollTop() > 250)
+                        $('.top').addClass('top-after');
+                    else
+                        $('.top').removeClass('top-after');
+                });
+                $('.top').click(function(){
+                    $("html, body").animate({scrollTop:'0'},
+    1000,
+    
+    function(){ 
+       
+       });
+                });
+            });
+            </script>
+		
    </body>
 </html>

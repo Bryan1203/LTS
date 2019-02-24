@@ -220,7 +220,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/%E5%82%B3%E7%B5%B1%E6%8A%80%E8%97%9D%E8%B3%87%E6%96%99%E5%BA%AB.html</loc>
+    <loc>http://test.com/tradartwork.html</loc>
     <lastmod>2019-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -235,7 +235,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/%E4%BD%9C%E5%93%81%E4%BB%8B%E7%B4%B9.html</loc>
+    <loc>http://test.com/work.html</loc>
     <lastmod>2019-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
