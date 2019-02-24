@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test.com/index.html</loc>
-    <lastmod>2019-02-23</lastmod>
+    <lastmod>2019-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -105,7 +105,7 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
@@ -123,7 +123,7 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
@@ -131,7 +131,7 @@
   </url>
   <url>
     <loc>http://test.com/steps.html</loc>
-    <lastmod>2019-02-23</lastmod>
+    <lastmod>2019-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -141,7 +141,7 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -156,12 +156,12 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test.com/quationnarie.html</loc>
-    <lastmod>2019-02-23</lastmod>
+    <lastmod>2019-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -173,7 +173,7 @@
   </url>
   <url>
     <loc>http://test.com/thoughts.html</loc>
-    <lastmod>2019-02-23</lastmod>
+    <lastmod>2019-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -213,7 +213,7 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
@@ -221,6 +221,21 @@
   </url>
   <url>
     <loc>http://test.com/%E5%82%B3%E7%B5%B1%E6%8A%80%E8%97%9D%E8%B3%87%E6%96%99%E5%BA%AB.html</loc>
+    <lastmod>2019-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/home_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/%E4%BD%9C%E5%93%81%E4%BB%8B%E7%B4%B9.html</loc>
     <lastmod>2019-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

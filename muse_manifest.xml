@@ -1,59 +1,79 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1551007956118">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1551014476059">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_home.css" crc="4129488348" ref="index"/>
     <file name="master_intro.css" crc="4199281376" ref="contribute:projectoverview:plan:narrative"/>
-    <file name="index.css" crc="3799682985" ref="index"/>
-    <file name="mainpage.css" crc="4128181938" ref="mainpage"/>
+    <file name="index.css" crc="479036805" ref="index"/>
+    <file name="mainpage.css" crc="495314224" ref="mainpage"/>
     <file name="contribute.css" crc="197580129" ref="contribute"/>
     <file name="projectoverview.css" crc="4117342182" ref="projectoverview"/>
     <file name="plan.css" crc="278013855" ref="plan"/>
-    <file name="master_mainpage.css" crc="536390459" ref="mainpage:future:thoughts:quationnarie:steps:master:mryen:傳統技藝資料庫"/>
-    <file name="future.css" crc="4141688116" ref="future"/>
-    <file name="thoughts.css" crc="275787480" ref="thoughts"/>
-    <file name="quationnarie.css" crc="275787480" ref="quationnarie"/>
-    <file name="steps.css" crc="3919266800" ref="steps"/>
-    <file name="master.css" crc="76212255" ref="master"/>
+    <file name="master_mainpage.css" crc="4012228280" ref="mainpage:future:thoughts:quationnarie:steps:master:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="future.css" crc="331362824" ref="future"/>
+    <file name="thoughts.css" crc="4085136738" ref="thoughts"/>
+    <file name="quationnarie.css" crc="4085136738" ref="quationnarie"/>
+    <file name="steps.css" crc="4046272055" ref="steps"/>
+    <file name="master.css" crc="4220465932" ref="master"/>
     <file name="narrative.css" crc="3867006983" ref="narrative"/>
-    <file name="mryen.css" crc="4157041828" ref="mryen"/>
-    <file name="_______.css" crc="275787480" ref="傳統技藝資料庫"/>
+    <file name="mryen.css" crc="281237204" ref="mryen"/>
+    <file name="_______.css" crc="284038254" ref="傳統技藝資料庫"/>
+    <file name="____.css" crc="4085136738" ref="作品介紹"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫"/>
-    <file name="museutils.js" crc="340535759" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫"/>
-    <file name="whatinput.js" crc="86476730" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:projectoverview:plan:mainpage:master:narrative:mryen:steps:future"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫"/>
-    <file name="require.js" crc="7928878" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="museutils.js" crc="340535759" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:projectoverview:plan:mainpage:master:narrative:mryen:steps:future:傳統技藝資料庫"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="require.js" crc="7928878" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹"/>
   </folder>
   <folder name="images">
     <file name="footer.png" crc="72676742" ref="index:mainpage:narrative:projectoverview">
+      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="plan" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="mainpage" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="projectoverview" alt=""/>
       <caption webpage="網站首頁" alt=""/>
       <caption webpage="mryen" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="projectoverview" alt=""/>
+      <caption webpage="home" alt=""/>
       <caption webpage="narrative" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫"/>
+    <file name="blank.gif" crc="4208392903" ref="index:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹"/>
     <file name="button.png" crc="3818276249" ref="index:mainpage:narrative:projectoverview">
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="plan" alt=""/>
       <caption webpage="plan" alt=""/>
       <caption webpage="plan" alt=""/>
@@ -99,45 +119,28 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -159,17 +162,16 @@
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="projectoverview" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="mryen" alt=""/>
@@ -202,64 +204,66 @@
       <caption webpage="網站首頁" alt=""/>
       <caption webpage="home" alt=""/>
     </file>
-    <file name="home_logo.png" crc="4037911285" seo="true" ref="projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫">
+    <file name="home_logo.png" crc="4037911285" seo="true" ref="projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹">
       <caption webpage="plan" alt=""/>
       <caption webpage="future" alt=""/>
-      <caption webpage="價值與發展" alt=""/>
-      <caption webpage="由來及歷史" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="漆線雕" alt=""/>
       <caption webpage="網站首頁" alt=""/>
+      <caption webpage="contribute" alt=""/>
       <caption webpage="漆線雕師傅" alt=""/>
-      <caption webpage="問卷" alt=""/>
-      <caption webpage="貢獻分配" alt=""/>
-      <caption webpage="計畫總覽" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="心得" alt=""/>
-      <caption webpage="projectoverview" alt=""/>
-      <caption webpage="製作過程" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
       <caption webpage="傳統技藝資料庫" alt=""/>
+      <caption webpage="價值與發展" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="projectoverview" alt=""/>
+      <caption webpage="作品介紹" alt=""/>
+      <caption webpage="由來及歷史" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="顏金益" alt=""/>
+      <caption webpage="漆線雕" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="問卷" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="narrative" alt=""/>
       <caption webpage="thoughts" alt=""/>
-      <caption webpage="計畫要素" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="製作過程" alt=""/>
+      <caption webpage="心得" alt=""/>
       <caption webpage="steps" alt=""/>
+      <caption webpage="顏金益" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="upperlogo.jpg" crc="3800365208" seo="true" ref="projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫">
+    <file name="upperlogo.jpg" crc="3800365208" seo="true" ref="projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹">
       <caption webpage="plan" alt=""/>
       <caption webpage="future" alt=""/>
-      <caption webpage="價值與發展" alt=""/>
-      <caption webpage="由來及歷史" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="contribute" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="傳統技藝資料庫" alt=""/>
-      <caption webpage="漆線雕師傅" alt=""/>
-      <caption webpage="問卷" alt=""/>
-      <caption webpage="貢獻分配" alt=""/>
-      <caption webpage="計畫總覽" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="projectoverview" alt=""/>
-      <caption webpage="心得" alt=""/>
-      <caption webpage="製作過程" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="漆線雕師傅" alt=""/>
+      <caption webpage="價值與發展" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="心得" alt=""/>
+      <caption webpage="作品介紹" alt=""/>
+      <caption webpage="由來及歷史" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="顏金益" alt=""/>
+      <caption webpage="漆線雕" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="問卷" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="narrative" alt=""/>
       <caption webpage="thoughts" alt=""/>
-      <caption webpage="計畫要素" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="漆線雕" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="製作過程" alt=""/>
       <caption webpage="steps" alt=""/>
+      <caption webpage="顏金益" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
     <file name="background04.jpg" crc="3822374416" ref="narrative:projectoverview">
@@ -270,33 +274,37 @@
       <caption webpage="相關資訊" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
     </file>
-    <file name="inkpoint.png" crc="3802025612" seo="true" ref="narrative:projectoverview">
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
+    <file name="inkpoint.png" crc="3802025612" seo="true" ref="narrative:projectoverview:mryen:mainpage:master:steps:future:傳統技藝資料庫">
       <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="projectoverview" alt=""/>
-      <caption webpage="顏金益" alt=""/>
-      <caption webpage="顏金益" alt=""/>
-      <caption webpage="顏金益" alt=""/>
+      <caption webpage="future" alt=""/>
+      <caption webpage="future" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="narrative" alt=""/>
+      <caption webpage="傳統技藝資料庫" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="projectoverview" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="steps" alt=""/>
+      <caption webpage="顏金益" alt=""/>
+      <caption webpage="顏金益" alt=""/>
+      <caption webpage="顏金益" alt=""/>
     </file>
     <file name="u12950-5.png" crc="3848248534" ref="narrative"/>
     <file name="relateinfo.png" crc="3929212042" seo="true" ref="narrative">
@@ -305,32 +313,33 @@
       <caption webpage="relatedinfo" alt=""/>
       <caption webpage="相關資訊" alt=""/>
     </file>
-    <file name="background03.jpg" crc="483631935" ref="projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫">
+    <file name="background03.jpg" crc="483631935" ref="projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:傳統技藝資料庫:作品介紹">
       <caption webpage="plan" alt=""/>
       <caption webpage="future" alt=""/>
-      <caption webpage="價值與發展" alt=""/>
-      <caption webpage="由來及歷史" alt=""/>
       <caption webpage="contribute" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="傳統技藝資料庫" alt=""/>
-      <caption webpage="漆線雕師傅" alt=""/>
-      <caption webpage="問卷" alt=""/>
-      <caption webpage="貢獻分配" alt=""/>
-      <caption webpage="計畫總覽" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="projectoverview" alt=""/>
-      <caption webpage="心得" alt=""/>
-      <caption webpage="製作過程" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="漆線雕師傅" alt=""/>
+      <caption webpage="價值與發展" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="心得" alt=""/>
+      <caption webpage="作品介紹" alt=""/>
+      <caption webpage="由來及歷史" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="顏金益" alt=""/>
+      <caption webpage="漆線雕" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="問卷" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="narrative" alt=""/>
       <caption webpage="thoughts" alt=""/>
-      <caption webpage="計畫要素" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="漆線雕" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="製作過程" alt=""/>
       <caption webpage="steps" alt=""/>
+      <caption webpage="顏金益" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
     <file name="inkpoint2.png" crc="4103885987" seo="true" ref="projectoverview">
@@ -362,7 +371,7 @@
       <caption webpage="projectoverview" alt=""/>
     </file>
     <file name="u17117-5.png" crc="4165853459" ref="projectoverview"/>
-    <file name="inkpoint8.png" crc="3802025612" seo="true" ref="plan:mainpage:master:steps:future:mryen">
+    <file name="inkpoint8.png" crc="3802025612" seo="true" ref="plan">
       <caption webpage="計畫總覽" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="master" alt=""/>
@@ -421,10 +430,10 @@
       <caption webpage="master" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="future" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="顏金益" alt=""/>
-      <caption webpage="steps" alt=""/>
       <caption webpage="mryen" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="steps" alt=""/>
+      <caption webpage="顏金益" alt=""/>
     </file>
     <file name="butterfly.png" crc="173001610" ref="projectoverview:master">
       <caption webpage="plan" alt=""/>
@@ -450,31 +459,9 @@
       <caption webpage="顏金益" alt=""/>
       <caption webpage="mryen" alt=""/>
     </file>
-    <file name="u21434.png" crc="100271573" ref="index"/>
-    <file name="u21434-m.png" crc="3802686278" ref="index"/>
-    <file name="u21434-a.png" crc="100271573" ref="index"/>
-    <file name="u21414.png" crc="506445602" ref="index"/>
-    <file name="u21414-m.png" crc="3837788529" ref="index"/>
-    <file name="u21414-a.png" crc="506445602" ref="index"/>
-    <file name="u21427.png" crc="3834517120" ref="index"/>
-    <file name="u21427-m.png" crc="4139422200" ref="index"/>
-    <file name="u21427-a.png" crc="3834517120" ref="index"/>
-    <file name="u21406.png" crc="3827201692" ref="index"/>
-    <file name="u21406-m.png" crc="3953272673" ref="index"/>
-    <file name="u21406-a.png" crc="3827201692" ref="index"/>
-    <file name="u21401.png" crc="4114336726" ref="index"/>
-    <file name="u21401-m.png" crc="3996375192" ref="index"/>
-    <file name="u21401-a.png" crc="4114336726" ref="index"/>
-    <file name="u21420.png" crc="4224184920" ref="index"/>
-    <file name="u21420-m.png" crc="3960873856" ref="index"/>
-    <file name="u21420-a.png" crc="4224184920" ref="index"/>
     <file name="u21272.png" crc="4171666431" ref="projectoverview:contribute:plan:narrative"/>
     <file name="u21272-m.png" crc="4076607881" ref="projectoverview:contribute:plan:narrative"/>
     <file name="u21272-a.png" crc="4171666431" ref="projectoverview:contribute:plan:narrative"/>
-    <file name="8q6a8757-u19563-fr.jpg" crc="144534600" ref="mainpage"/>
-    <file name="dsc02415.jpg" crc="130350053" ref="mainpage">
-      <caption webpage="mainpage" alt=""/>
-    </file>
     <file name="u21566-5.png" crc="314405863" ref="mainpage"/>
     <file name="home_logo01.png" crc="112749751" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -482,12 +469,12 @@
     </file>
     <file name="arrowmenudown.png" crc="262559161" ref="index:mainpage">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="master" alt=""/>
+      <caption webpage="mainpage" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="mryen" alt=""/>
     </file>
-    <file name="u21868-4.png" crc="3794701889" ref="index"/>
-    <file name="u21887-5.png" crc="4284363696" ref="index"/>
     <file name="u21619.png" crc="3827548178" ref="projectoverview:contribute:plan:narrative"/>
     <file name="u21619-m.png" crc="187400822" ref="projectoverview:contribute:plan:narrative"/>
     <file name="u21619-a.png" crc="3827548178" ref="projectoverview:contribute:plan:narrative"/>
@@ -502,32 +489,29 @@
     <file name="u21683-a.png" crc="4006897281" ref="projectoverview:contribute:plan:narrative"/>
     <file name="bug02-u17719-fr.png" crc="463224529" ref="plan"/>
     <file name="butterfly-u17730-fr.png" crc="291017239" ref="plan"/>
-    <file name="u22104.png" crc="100271573" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22104-m.png" crc="3802686278" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22104-a.png" crc="100271573" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22139.png" crc="506445602" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22139-m.png" crc="3837788529" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22139-a.png" crc="506445602" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22155-4.png" crc="3794701889" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22148-5.png" crc="4284363696" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22131.png" crc="3834517120" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22131-m.png" crc="4139422200" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22131-a.png" crc="3834517120" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22111.png" crc="3827201692" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22111-m.png" crc="3953272673" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22111-a.png" crc="3827201692" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22123.png" crc="4114336726" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22123-m.png" crc="3996375192" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22123-a.png" crc="4114336726" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22118.png" crc="4224184920" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22118-m.png" crc="3960873856" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
-    <file name="u22118-a.png" crc="4224184920" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫"/>
+    <file name="u22104.png" crc="100271573" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22104-m.png" crc="3802686278" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22104-a.png" crc="100271573" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22139.png" crc="506445602" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22139-m.png" crc="3837788529" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22139-a.png" crc="506445602" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22155-4.png" crc="3794701889" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22148-5.png" crc="4284363696" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22111.png" crc="3827201692" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22111-m.png" crc="3953272673" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22111-a.png" crc="3827201692" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22123.png" crc="4114336726" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22123-m.png" crc="3996375192" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22123-a.png" crc="4114336726" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22118.png" crc="4224184920" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22118-m.png" crc="3960873856" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22118-a.png" crc="4224184920" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
     <file name="u21719-4.png" crc="4136127113" ref="master"/>
     <file name="u21702-5.png" crc="499725643" ref="master"/>
     <file name="people1.jpg" crc="79356438" ref="master">
       <caption webpage="master" alt=""/>
     </file>
-    <file name="8q6a8693.jpg" crc="3763413069" ref="master">
+    <file name="8q6a8693.jpg" crc="302169690" ref="master">
       <caption webpage="master" alt=""/>
     </file>
     <file name="u21764-5.png" crc="48378644" ref="master"/>
@@ -537,54 +521,89 @@
     <file name="u22290-4.png" crc="4136127113" ref="mryen"/>
     <file name="u22407-5.png" crc="356452877" ref="master"/>
     <file name="master.png" crc="4051036563" ref="master:mryen">
-      <caption webpage="顏金益" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="master" alt=""/>
+      <caption webpage="顏金益" alt=""/>
     </file>
     <file name="u22298-5.png" crc="3802820209" ref="mryen"/>
     <file name="people 2.jpg" crc="445686843" ref="mryen">
       <caption webpage="顏金益" alt=""/>
       <caption webpage="mryen" alt=""/>
     </file>
-    <file name="cup01.jpg" crc="35990299" ref="mryen">
-      <caption webpage="顏金益" alt=""/>
-      <caption webpage="mryen" alt=""/>
-    </file>
-    <file name="img_4554.jpg" crc="32112138" ref="mryen">
+    <file name="img_4554.jpg" crc="477079128" ref="mryen:mainpage">
+      <caption webpage="mainpage" alt=""/>
       <caption webpage="顏金益" alt=""/>
       <caption webpage="mryen" alt=""/>
     </file>
     <file name="u22368-5.png" crc="48378644" ref="mryen"/>
-    <file name="dsc02454.jpg" crc="279424943" ref="mryen">
+    <file name="dsc02454.jpg" crc="355205356" ref="mryen">
       <caption webpage="顏金益" alt=""/>
       <caption webpage="mryen" alt=""/>
     </file>
     <file name="u22423-5.png" crc="356452877" ref="mryen"/>
-    <file name="8q6a8757-u19435-fr.png" crc="348553489" ref="mainpage:master:steps:future:mryen"/>
+    <file name="8q6a8757-u19435-fr.png" crc="348553489" ref="mainpage:master:steps:future:mryen:傳統技藝資料庫"/>
     <file name="u22480-4.png" crc="4225889140" ref="steps"/>
     <file name="u22488-5.png" crc="4263982228" ref="steps"/>
     <file name="u22513-4.png" crc="3914143693" ref="future"/>
     <file name="u22517-6.png" crc="192605091" ref="future"/>
-    <file name="bird-u22582-fr.png" crc="71677041" ref="future"/>
-    <file name="20150315 林家億漆線雕mp4_snapshot_0051_-20190223_155659-.jpg" crc="412379980" ref="future">
+    <file name="bird-u22582-fr.png" crc="71677041" ref="future:傳統技藝資料庫"/>
+    <file name="20150315 林家億漆線雕mp4_snapshot_0051_-20190223_155659-.jpg" crc="4195339488" ref="future:傳統技藝資料庫">
+      <caption webpage="傳統技藝資料庫" alt=""/>
       <caption webpage="future" alt=""/>
     </file>
-    <file name="dsc02410.jpg" crc="4246315488" ref="future">
+    <file name="dsc02410.jpg" crc="457246959" ref="future:傳統技藝資料庫">
+      <caption webpage="傳統技藝資料庫" alt=""/>
       <caption webpage="future" alt=""/>
     </file>
     <file name="u22595-5.png" crc="4278908788" ref="future"/>
+    <file name="u23289.png" crc="100271573" ref="index"/>
+    <file name="u23289-m.png" crc="3802686278" ref="index"/>
+    <file name="u23289-a.png" crc="100271573" ref="index"/>
+    <file name="u23281-4.png" crc="432745855" ref="index"/>
+    <file name="u23274-4.png" crc="364564490" ref="index"/>
+    <file name="u23301.png" crc="506445602" ref="index"/>
+    <file name="u23301-m.png" crc="3837788529" ref="index"/>
+    <file name="u23301-a.png" crc="506445602" ref="index"/>
+    <file name="u23306-4.png" crc="3794701889" ref="index"/>
+    <file name="u23315-5.png" crc="4284363696" ref="index"/>
+    <file name="u23294.png" crc="3827201692" ref="index"/>
+    <file name="u23294-m.png" crc="3953272673" ref="index"/>
+    <file name="u23294-a.png" crc="3827201692" ref="index"/>
+    <file name="u23257.png" crc="4027473589" ref="index"/>
+    <file name="u23257-m.png" crc="3962402931" ref="index"/>
+    <file name="u23257-a.png" crc="4027473589" ref="index"/>
+    <file name="u23266.png" crc="4114336726" ref="index"/>
+    <file name="u23266-m.png" crc="3996375192" ref="index"/>
+    <file name="u23266-a.png" crc="4114336726" ref="index"/>
+    <file name="u23320.png" crc="4224184920" ref="index"/>
+    <file name="u23320-m.png" crc="3960873856" ref="index"/>
+    <file name="u23320-a.png" crc="4224184920" ref="index"/>
+    <file name="u22750-4.png" crc="432745855" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22768-4.png" crc="364564490" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22627.png" crc="4027473589" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22627-m.png" crc="3962402931" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="u22627-a.png" crc="4027473589" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:傳統技藝資料庫:作品介紹"/>
+    <file name="20150315 林家億漆線雕mp4_snapshot_0130_-20190223_155739-.jpg" crc="3912329079" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="8q6a8744.jpg" crc="4003891736" ref="mryen">
+      <caption webpage="mryen" alt=""/>
+    </file>
+    <file name="u23541-4.png" crc="164877357" ref="傳統技藝資料庫"/>
+    <file name="u23545-5.png" crc="3946456702" ref="傳統技藝資料庫"/>
   </folder>
-  <file name="index.html" crc="461800582" seo="true" mt="1550852352530" redirect="true"/>
+  <file name="index.html" crc="13880953" seo="true" mt="1551012380737" redirect="true"/>
   <file name="projectoverview.html" crc="476200950" seo="true" mt="1551005379337" redirect="true"/>
   <file name="contribute.html" crc="4016691790" seo="true" mt="1550851998361" redirect="true"/>
   <file name="plan.html" crc="496174315" seo="true" mt="1551005379338" redirect="true"/>
-  <file name="mainpage.html" crc="332406110" seo="true" mt="1551007944304" redirect="true"/>
-  <file name="master.html" crc="4179249154" seo="true" mt="1551007944700" redirect="true"/>
-  <file name="steps.html" crc="122422634" seo="true" mt="1550929691943" redirect="true"/>
-  <file name="future.html" crc="4138404954" seo="true" mt="1551007946428" redirect="true"/>
-  <file name="quationnarie.html" crc="424800352" seo="true" mt="1550852352528" redirect="true"/>
-  <file name="thoughts.html" crc="390845707" seo="true" mt="1550852352528" redirect="true"/>
+  <file name="mainpage.html" crc="333004407" seo="true" mt="1551014022697" redirect="true"/>
+  <file name="master.html" crc="279215628" seo="true" mt="1551014003385" redirect="true"/>
+  <file name="steps.html" crc="400551682" seo="true" mt="1551012340140" redirect="true"/>
+  <file name="future.html" crc="222951988" seo="true" mt="1551013946424" redirect="true"/>
+  <file name="quationnarie.html" crc="4243075737" seo="true" mt="1551012340140" redirect="true"/>
+  <file name="thoughts.html" crc="464771245" seo="true" mt="1551012340140" redirect="true"/>
   <file name="narrative.html" crc="4260986076" seo="true" mt="1550852198080" redirect="true"/>
-  <file name="mryen.html" crc="280224874" seo="true" mt="1551007946345" redirect="true"/>
-  <file name="傳統技藝資料庫.html" crc="350793420" seo="true" mt="1551007565681" redirect="true"/>
+  <file name="mryen.html" crc="3865925724" seo="true" mt="1551013803597" redirect="true"/>
+  <file name="傳統技藝資料庫.html" crc="3830375325" seo="true" mt="1551014195310" redirect="true"/>
+  <file name="作品介紹.html" crc="406096529" seo="true" mt="1551012340140" redirect="true"/>
 </manifest>
