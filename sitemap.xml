@@ -27,12 +27,15 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test.com/projectoverview.html</loc>
-    <lastmod>2019-02-24</lastmod>
+    <lastmod>2019-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -64,6 +67,9 @@
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/projov.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/butterfly.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
@@ -99,13 +105,13 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://test.com/images/plandecision.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -120,10 +126,10 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -138,10 +144,10 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -164,7 +170,7 @@
   </url>
   <url>
     <loc>http://test.com/future.html</loc>
-    <lastmod>2019-02-25</lastmod>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -174,7 +180,10 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -190,6 +199,9 @@
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/butterfly.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
@@ -219,15 +231,15 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test.com/mryen.html</loc>
-    <lastmod>2019-02-25</lastmod>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -237,10 +249,10 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -255,14 +267,14 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/assets/videoone.mp4</loc>
+    <loc>http://test.com/assets/oriwork~2.mp4</loc>
     <lastmod>2019-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
