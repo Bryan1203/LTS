@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test.com/index.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>http://test.com/steps.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -27,15 +27,15 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test.com/future.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -45,15 +45,15 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test.com/projectoverview.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>http://test.com/plan.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -118,9 +118,6 @@
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/plandecision.png</image:loc>
@@ -128,10 +125,13 @@
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://test.com/mainpage.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -141,15 +141,15 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test.com/master.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -159,10 +159,10 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -185,7 +185,7 @@
   </url>
   <url>
     <loc>http://test.com/thoughts.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -195,15 +195,15 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test.com/quationnarie.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -213,15 +213,15 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test.com/tradartwork.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -231,15 +231,15 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test.com/work.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -249,15 +249,15 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test.com/mryen.html</loc>
-    <lastmod>2019-02-26</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -267,10 +267,10 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint8.png</image:loc>
     </image:image>
   </url>
   <url>
