@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1551185544838">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1551185599122">
   <folder name="assets">
     <file name="oriwork~2.mp4" crc="3977603487" seo="true" mt="1551101526000"/>
     <file name="sddefault.jpg.png" crc="3834510150" seo="true" mt="1551179364000"/>
