@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1551241732188">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1551241828215">
   <folder name="assets">
     <file name="oriwork~2.mp4" crc="3977603487" seo="true" mt="1551101526000"/>
     <file name="sddefault.jpg.png" crc="3834510150" seo="true" mt="1551179364000"/>
@@ -37,14 +37,14 @@
   <folder name="images">
     <file name="footer.png" crc="72676742" ref="index:mainpage:narrative:projectoverview:master:plan">
       <caption webpage="thoughts" alt=""/>
-      <caption webpage="future" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="網站首頁" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="home" alt=""/>
+      <caption webpage="future" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mainpage" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="projectoverview" alt=""/>
+      <caption webpage="home" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="plan" alt=""/>
@@ -53,6 +53,18 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:projectoverview:contribute:plan:mainpage:narrative:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work"/>
     <file name="button.png" crc="3818276249" ref="index:mainpage:narrative:projectoverview:master:plan">
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
       <caption webpage="網站首頁" alt=""/>
       <caption webpage="網站首頁" alt=""/>
       <caption webpage="網站首頁" alt=""/>
@@ -82,6 +94,35 @@
       <caption webpage="future" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="future" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -90,18 +131,24 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
       <caption webpage="相關資訊" alt=""/>
       <caption webpage="相關資訊" alt=""/>
       <caption webpage="相關資訊" alt=""/>
@@ -112,64 +159,6 @@
       <caption webpage="相關資訊" alt=""/>
       <caption webpage="相關資訊" alt=""/>
       <caption webpage="相關資訊" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="master" alt=""/>
@@ -198,6 +187,17 @@
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="projectoverview" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
@@ -275,90 +275,91 @@
       <caption webpage="網站首頁" alt=""/>
     </file>
     <file name="home_logo.png" crc="4037911285" seo="true" ref="projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:tradartwork:work">
-      <caption webpage="計畫總覽" alt=""/>
-      <caption webpage="網站首頁" alt=""/>
-      <caption webpage="steps" alt=""/>
-      <caption webpage="問卷" alt=""/>
-      <caption webpage="由來及歷史" alt=""/>
+      <caption webpage="漆線雕" alt=""/>
       <caption webpage="tradartwork" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
       <caption webpage="mainpage" alt=""/>
-      <caption webpage="home" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="work" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="projectoverview" alt=""/>
-      <caption webpage="作品介紹" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="plan" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="顏金益" alt=""/>
-      <caption webpage="漆線雕師傅" alt=""/>
       <caption webpage="價值與發展" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="future" alt=""/>
-      <caption webpage="貢獻分配" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="心得" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="傳統技藝資料庫" alt=""/>
-      <caption webpage="計畫要素" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="漆線雕" alt=""/>
       <caption webpage="製作過程" alt=""/>
-      <caption webpage="narrative" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="由來及歷史" alt=""/>
+      <caption webpage="網站首頁" alt=""/>
+      <caption webpage="future" alt=""/>
+      <caption webpage="傳統技藝資料庫" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="漆線雕師傅" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="作品介紹" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="問卷" alt=""/>
+      <caption webpage="steps" alt=""/>
+      <caption webpage="心得" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
     <file name="upperlogo.jpg" crc="3800365208" seo="true" ref="projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:narrative:mryen:tradartwork:work">
-      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="漆線雕" alt=""/>
       <caption webpage="tradartwork" alt=""/>
-      <caption webpage="steps" alt=""/>
-      <caption webpage="quationnarie" alt=""/>
-      <caption webpage="由來及歷史" alt=""/>
-      <caption webpage="作品介紹" alt=""/>
+      <caption webpage="問卷" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="narrative" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="mryen" alt=""/>
-      <caption webpage="漆線雕師傅" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="顏金益" alt=""/>
       <caption webpage="plan" alt=""/>
-      <caption webpage="價值與發展" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="future" alt=""/>
-      <caption webpage="貢獻分配" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="contribute" alt=""/>
-      <caption webpage="心得" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="傳統技藝資料庫" alt=""/>
       <caption webpage="計畫要素" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="漆線雕" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="顏金益" alt=""/>
+      <caption webpage="價值與發展" alt=""/>
       <caption webpage="製作過程" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="問卷" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="由來及歷史" alt=""/>
+      <caption webpage="future" alt=""/>
+      <caption webpage="傳統技藝資料庫" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="漆線雕師傅" alt=""/>
+      <caption webpage="作品介紹" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="steps" alt=""/>
+      <caption webpage="心得" alt=""/>
+      <caption webpage="quationnarie" alt=""/>
     </file>
     <file name="background04.jpg" crc="3822374416" ref="narrative:projectoverview:plan">
       <caption webpage="index" alt=""/>
       <caption webpage="plan" alt=""/>
       <caption webpage="projectoverview" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
       <caption webpage="narrative" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
     </file>
     <file name="inkpoint.png" crc="3802025612" seo="true" ref="narrative:projectoverview:master:steps:thoughts:mryen:tradartwork:work:future:quationnarie:plan">
       <caption webpage="tradartwork" alt=""/>
       <caption webpage="tradartwork" alt=""/>
       <caption webpage="tradartwork" alt=""/>
       <caption webpage="tradartwork" alt=""/>
-      <caption webpage="narrative" alt=""/>
+      <caption webpage="steps" alt=""/>
+      <caption webpage="steps" alt=""/>
+      <caption webpage="steps" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="future" alt=""/>
-      <caption webpage="quationnarie" alt=""/>
-      <caption webpage="quationnarie" alt=""/>
+      <caption webpage="傳統技藝資料庫" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="thoughts" alt=""/>
       <caption webpage="thoughts" alt=""/>
@@ -375,8 +376,10 @@
       <caption webpage="mainpage" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="顏金益" alt=""/>
+      <caption webpage="顏金益" alt=""/>
+      <caption webpage="顏金益" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="傳統技藝資料庫" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="master" alt=""/>
@@ -384,66 +387,63 @@
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="作品介紹" alt=""/>
       <caption webpage="作品介紹" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="mryen" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
       <caption webpage="相關資訊" alt=""/>
-      <caption webpage="steps" alt=""/>
-      <caption webpage="steps" alt=""/>
-      <caption webpage="steps" alt=""/>
-      <caption webpage="顏金益" alt=""/>
-      <caption webpage="顏金益" alt=""/>
-      <caption webpage="顏金益" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="quationnarie" alt=""/>
+      <caption webpage="quationnarie" alt=""/>
     </file>
     <file name="u12950-5.png" crc="3848248534" ref="narrative"/>
     <file name="relateinfo.png" crc="3929212042" seo="true" ref="narrative">
       <caption webpage="index" alt=""/>
       <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
       <caption webpage="narrative" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
     </file>
     <file name="background03.jpg" crc="483631935" ref="projectoverview:contribute:plan:narrative">
-      <caption webpage="計畫要素" alt=""/>
+      <caption webpage="漆線雕" alt=""/>
       <caption webpage="tradartwork" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="quationnarie" alt=""/>
-      <caption webpage="由來及歷史" alt=""/>
-      <caption webpage="作品介紹" alt=""/>
+      <caption webpage="問卷" alt=""/>
+      <caption webpage="貢獻分配" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="steps" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="plan" alt=""/>
+      <caption webpage="計畫要素" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="顏金益" alt=""/>
-      <caption webpage="漆線雕師傅" alt=""/>
       <caption webpage="價值與發展" alt=""/>
-      <caption webpage="相關資訊" alt=""/>
-      <caption webpage="future" alt=""/>
-      <caption webpage="貢獻分配" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="心得" alt=""/>
-      <caption webpage="relatedinfo" alt=""/>
-      <caption webpage="傳統技藝資料庫" alt=""/>
-      <caption webpage="計畫總覽" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="漆線雕" alt=""/>
       <caption webpage="製作過程" alt=""/>
-      <caption webpage="steps" alt=""/>
-      <caption webpage="問卷" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="由來及歷史" alt=""/>
+      <caption webpage="future" alt=""/>
+      <caption webpage="傳統技藝資料庫" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="計畫總覽" alt=""/>
+      <caption webpage="relatedinfo" alt=""/>
+      <caption webpage="漆線雕師傅" alt=""/>
+      <caption webpage="作品介紹" alt=""/>
+      <caption webpage="相關資訊" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="心得" alt=""/>
+      <caption webpage="quationnarie" alt=""/>
     </file>
     <file name="inkpoint2.png" crc="4103885987" seo="true" ref="projectoverview">
       <caption webpage="projectoverview" alt=""/>
@@ -935,7 +935,7 @@
   <file name="future.html" crc="335301528" seo="true" mt="1551241229141" redirect="true"/>
   <file name="quationnarie.html" crc="489824540" seo="true" mt="1551241296391" redirect="true"/>
   <file name="thoughts.html" crc="489753979" seo="true" mt="1551241515602" redirect="true"/>
-  <file name="narrative.html" crc="365091873" seo="true" mt="1551240922801" redirect="true"/>
+  <file name="narrative.html" crc="3878303262" seo="true" mt="1551241819455" redirect="true"/>
   <file name="mryen.html" crc="536140751" seo="true" mt="1551241103453" redirect="true"/>
   <file name="tradartwork.html" crc="4147436605" seo="true" mt="1551241265514" redirect="true"/>
   <file name="work.html" crc="4280229746" seo="true" mt="1551200659549" redirect="true"/>
