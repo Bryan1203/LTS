@@ -95,7 +95,7 @@
   </url>
   <url>
     <loc>http://test.com/contribute.html</loc>
-    <lastmod>2019-02-23</lastmod>
+    <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -105,7 +105,7 @@
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/inkpoint9.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/contribute.png</image:loc>
